@@ -16,12 +16,12 @@
 			<fDriveInertia value="1.0" />
 			<fClutchChangeRateScaleUpShift value="3.2000000476837" />
 			<fClutchChangeRateScaleDownShift value="3.2000000476837" />
-			<fInitialDriveMaxFlatVel value="180.0" />
+			<fInitialDriveMaxFlatVel value="180.00001525879" />
 			<fBrakeForce value="1.2999999523163" />
 			<fBrakeBiasFront value="0.34999999403954" />
 			<fHandBrakeForce value="1.75" />
 			<fSteeringLock value="42.0" />
-			<fTractionCurveMax value="2.3499999046326" />
+			<fTractionCurveMax value="2.4000000953674" />
 			<fTractionCurveMin value="2.0" />
 			<fTractionCurveLateral value="19.5" />
 			<fTractionSpringDeltaMax value="0.15000000596046" />
@@ -43,7 +43,7 @@
 			<fCollisionDamageMult value="1.0" />
 			<fWeaponDamageMult value="0.20000000298023" />
 			<fDeformationDamageMult value="0.80000001192093" />
-			<fEngineDamageMult value="1.0371658802032" />
+			<fEngineDamageMult value="1.0032896995544" />
 			<fPetrolTankVolume value="65.0" />
 			<fOilVolume value="5.5" />
 			<fSeatOffsetDistX value="0.0" />
