@@ -1190,10 +1190,10 @@
       </firstPersonDrivebyData>
     </Item>
     <Item>
-      <modelName>bmwsr</modelName>
-      <txdName>bmwsr</txdName>
+      <modelName>bmwsrn</modelName>
+      <txdName>bmwsrn</txdName>
       <handlingId>SBATI</handlingId>
-      <gameName>BMWSR</gameName>
+      <gameName>BMWSRN</gameName>
       <vehicleMakeName>PEGASSI</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
       <expressionName>null</expressionName>
@@ -10728,7 +10728,7 @@
     </Item>
     <Item>
       <parent>vehicles_sportbk_interior</parent>
-      <child>bmwsr</child>
+      <child>bmwsrn</child>
     </Item>
     <Item>
       <parent>vehicles_sportbk_interior</parent>
