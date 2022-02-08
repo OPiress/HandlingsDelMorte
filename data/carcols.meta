@@ -18805,8 +18805,8 @@
 			<liveryNames />
 		</Item>
 		<Item>
-			<kitName>940_brabus850_modkit</kitName>
-			<id value="940" />
+			<kitName>9409_brabus850_modkit</kitName>
+			<id value="9409" />
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
@@ -94008,8 +94008,8 @@
 			<liveryNames />
 		</Item>
 		<Item>
-			<kitName>881_f40_modkit</kitName>
-			<id value="881" />
+			<kitName>8810_f40_modkit</kitName>
+			<id value="8810" />
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods />
 			<linkMods />
@@ -94474,8 +94474,8 @@
 			<liveryNames />
 		</Item>
 		<Item>
-			<kitName>881_f40_modkit</kitName>
-			<id value="881" />
+			<kitName>8810_f40_modkit</kitName>
+			<id value="8810" />
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods />
 			<linkMods />
@@ -105817,8 +105817,8 @@
 			<liveryNames />
 		</Item>
 		<Item>
-			<kitName>964_bmci_modkit</kitName>
-			<id value="964" />
+			<kitName>9645_bmci_modkit</kitName>
+			<id value="9645" />
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
@@ -106856,8 +106856,8 @@
 			<liveryNames />
 		</Item>
 		<Item>
-			<kitName>964_bmci_modkit</kitName>
-			<id value="964" />
+			<kitName>9645_bmci_modkit</kitName>
+			<id value="9645" />
 			<kitType>MKT_SPECIAL</kitType>
 			<visibleMods>
 				<Item>
@@ -116444,7 +116444,7 @@
 			<name>g65amg</name>
 		</Item>
 		<Item>
-			<id value="940" />
+			<id value="9409" />
 			<indicator>
 				<intensity value="0.375000" />
 				<falloffMax value="2.500000" />

@@ -3,8 +3,8 @@
 <CVehicleModelInfoVarGlobal>     
   <Kits>
     <Item>
-      <kitName>1178_mfd_modkit</kitName>
-      <id value="1178" />	 	  
+      <kitName>11780_mfd_modkit</kitName>
+      <id value="11780" />	 	  
       <kitType>MKT_SPECIAL</kitType>
       <visibleMods>
         <Item>
@@ -151,8 +151,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>pandem_rx7</modelName>
-          <modShopLabel>pandem_rx7</modShopLabel>
+          <modelName></modelName>
+          <modShopLabel></modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>

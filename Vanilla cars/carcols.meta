@@ -49592,8 +49592,8 @@
           <allowBonnetSlide value="true" />
         </Item>
         <Item>
-          <modelName>pandem_rx7</modelName>
-          <modShopLabel>pandem_rx7</modShopLabel>
+          <modelName></modelName>
+          <modShopLabel></modShopLabel>
           <linkedModels />
           <turnOffBones>
             <Item>bonnet</Item>

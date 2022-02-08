@@ -2862,8 +2862,8 @@
       <liveryNames />
     </Item>
     <Item>
-      <kitName>899_vehicles_modkit</kitName>
-      <id value="899" />	 	  
+      <kitName>8992_vehicles_modkit</kitName>
+      <id value="8992" />	 	  
       <kitType>MKT_STANDARD</kitType>
       <visibleMods>
 				<Item>
